@@ -1,0 +1,9 @@
+{
+    "emmet.includeLanguages": {
+        "javasript": "javascriptreact"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+    },
+    "emmet.triggerExpansionOnTab": true
+}
